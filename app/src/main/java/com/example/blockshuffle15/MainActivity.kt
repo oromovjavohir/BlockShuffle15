@@ -8,16 +8,4 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-
-    private fun loadViews() {
-
-    }
-
-    private fun loadAllViews() {
-
-    }
-
-    private fun my() {
-
-    }
 }
